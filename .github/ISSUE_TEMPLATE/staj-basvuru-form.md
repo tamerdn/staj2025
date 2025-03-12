@@ -1,24 +1,25 @@
 ---
 name: Staj Başvuru Formu
 about: 2025 Staj Başvuru Formatı
-title: AD-SOYAD [ALAN][STAJ YERİ][STAJ TİPİ][STAJ SÜRESİ]
+title: "Tamer-Erdoğan" ["data-science"]["yüzyüze"]["zorunlu"]["4-hafta"
+]
 labels: ''
 assignees: ''
 ---
 
 ### Kişisel Bilgiler
 
-- **Ad Soyad:**
-- **Okul:**
-- **Sınıf:**
-- **CV:** [Google Drive Linki veya PDF linki](#) 
-- **Sigorta Okul Tarafından Karşılanıyor Mu?** (Evet/Hayır):
+- **Ad Soyad:**["Tamer-Erdoğan"]
+- **Okul:**["İstinye-Üniversitesi"]
+- **Sınıf:**["3"]
+- **CV:** [https://drive.google.com/file/d/1fFKhjQxulfjL3ntBQ5tEKhNr73B31cVl/view?usp=drivesdk](#) 
+- **Sigorta Okul Tarafından Karşılanıyor Mu?** (Evet/Hayır):Evet
 
 ### Kendin Hakkında (İsteğe Bağlı)
 
-(Bu bölümde kendini tanıtabilir, ilgi alanlarını, hedeflerini veya motivasyonlarını paylaşabilirsin.)
+(İstinye Üniversitesi Yazılım Mühendisliği 3.sınıf öğrencisiyim. Kariyerimi veri bilimi ve makine öğrenimi alanında ilerletmek istiyorum. Üniversitenin zorunlu yaz stajını sizlerle birlikte yaparak sizlere katkıda bulunmak, kendimi geliştirmek ve deneyim kazanmak isterim.)
 
 ### Teknik Bilgiler
 
-- **İlgilendiğin Alanlar (Diller, Frameworkler, Teknolojiler vs):**
+- **İlgilendiğin Alanlar (Python, C, C++, SQL, Pandas, NumPy, Matplotlib, Pyautogui, Kivy, PyQt5, Scikit-learn, Flask, Tenserflow, OOP, Makine Öğrenimi Algoritmaları):**
 - **Örnek Projeler (Linkler ve Detaylar):**
